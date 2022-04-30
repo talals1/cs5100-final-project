@@ -1,0 +1,8 @@
+\begin{thebibliography}{}
+
+@MISC{Viola01rapidobject,
+author = {Paul Viola and Michael Jones},
+title = {Rapid object detection using a boosted cascade of simple features },
+year = {2001}
+}
+\end{thebibliography}
